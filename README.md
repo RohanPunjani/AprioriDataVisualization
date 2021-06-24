@@ -4,7 +4,8 @@ It is a Data Mining Project in order to handle data and present it on a webpage.
 
 The UI design is still in progress, here's a sneak peek of the frontend part
 
-![image](https://user-images.githubusercontent.com/48467821/116661465-19611e00-a9b2-11eb-8727-2ffcbe280364.png)
+![apriori](https://user-images.githubusercontent.com/48467821/123241342-ad58ed00-d4fe-11eb-89af-f6ee64b17f83.png)
+
 
 
 # Association Rules
@@ -22,7 +23,8 @@ There is another rule known as conviction:
 
 My Aim was to give user all these details when a product is selected, so I made something like this:
 
-![image](https://user-images.githubusercontent.com/48467821/116661614-5af1c900-a9b2-11eb-9bde-6235e38cce0c.png)
+![image](https://user-images.githubusercontent.com/48467821/123241408-c3ff4400-d4fe-11eb-9946-c441c63887d1.png)
+
 
 All the data that you are seeing in this image actually comes from the algorithm that we have ran on the backend <code>app.py</code> file
 
@@ -41,5 +43,6 @@ All the data that you are seeing in this image actually comes from the algorithm
     4. Type cmd: `npm start`
 5. Enjoy
 
-If you like this repo, check out my profile at [github.com/RohanPunjani](https://github.com/RohanPunjani).\n
+If you like this repo, check out my profile at [github.com/RohanPunjani](https://github.com/RohanPunjani). 
+
 Thank You for making it this far XD
